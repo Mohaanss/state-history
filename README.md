@@ -14,7 +14,7 @@ Code Sample
 
 ```js
 import React, { useState, useEffect } from "react";
-import StateHistory from "state-history";
+import StateHistory from "state-history-react";
 
 const stateManager = new StateHistory();
 
