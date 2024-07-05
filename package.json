@@ -1,5 +1,5 @@
 {
-  "name": "state-history",
+  "name": "state-history-react",
   "version": "1.0.0",
   "description": "A library for managing state history with undo/redo functionality.",
   "main": "index.js",
